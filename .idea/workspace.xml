@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1200d41-8442-40a7-8a06-d170822333d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22N8ushQlcoEUF6ERBsDjoz7xNt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/static/blog/images" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82107\OneDrive\바탕 화면\1901778\2-2\파이썬웹프로그래밍\q3\blog\static\blog\images" />
+      <recent name="C:\Users\82107\OneDrive\바탕 화면\1901778\2-2\파이썬웹프로그래밍\q3\bookmark\static\images" />
+      <recent name="C:\Users\82107\OneDrive\바탕 화면\1901778\2-2\파이썬웹프로그래밍\q3\polls\static\polls\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1200d41-8442-40a7-8a06-d170822333d6" name="Default Changelist" comment="" />
+      <created>1639666909174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639666909174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="701" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639684690759">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="701" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1639684690759" />
+  </component>
+</project>

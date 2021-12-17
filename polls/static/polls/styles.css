@@ -1,0 +1,15 @@
+body {
+    background: white;
+}
+
+h4 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.page_header {
+    background: url("images/star.jpg");
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
